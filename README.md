@@ -1,4 +1,5 @@
 # DezToLetter
+##Example
 ```
 jens@mars:~/data/source/DezToLetter/out/artifacts/DezToLetter_jar> jp DezToLetter.jar file
 
@@ -75,3 +76,5 @@ File : /home/jens/aschoffs.yml
 
 jens@mars:~/data/source/DezToLetter/out/artifacts/DezToLetter_jar> 
 ```
+
+If you just run the file, it will aks you for entering a decimal code.
